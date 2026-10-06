@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">LyricsViewerApp</string>
+    <string name="txtMainMenu">Main Menu</string>
+    <string name="btnSong1">Song 1</string>
+    <string name="btnSong2">Song 2</string>
+    <string name="btnSong3">Song 3</string>
+    <string name="btnSong4">Song 4</string>
+    <string name="btnSong5">Song 5</string>
+
+    <string name="txtSong1">"we cant be friends (wait for your love)"</string>
+    <string name="txtSong1Artist">by Ariana Grande</string>
+
+    <string name="txtSong2">"closure"</string>
+    <string name="txtSong2Artist">by Taylor Swift</string>
+
+    <string name="txtSong3">"Supermarket Flowers"</string>
+    <string name="txtSong3Artist">by Ed Sheeran</string>
+
+    <string name="txtSong4">"Falling Behind"</string>
+    <string name="txtSong4Artist">by Laufey</string>
+
+    <string name="txtSong5">"light"</string>
+    <string name="txtSong5Artist">by wave to earth</string>
+</resources>
