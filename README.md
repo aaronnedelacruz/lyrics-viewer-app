@@ -7,8 +7,14 @@ A simple Android application built with Kotlin that allows users to browse and v
 ## Preview
 
 <p align="center">
-  <img src="images/preview_home.png" alt="Lyrics Viewer Home" width="250">
-  <img src="images/preview_lyrics.png" alt="Lyrics Screen" width="250">
+<img width="592" height="583" alt="image" src="https://github.com/user-attachments/assets/d06577ce-ff3a-4176-bd02-fbc25d8e3b9c" />
+
+<img width="541" height="565" alt="image" src="https://github.com/user-attachments/assets/2ff6bb36-022e-4fa5-ac38-e72b1be143c8" />
+
+<img width="810" height="607" alt="image" src="https://github.com/user-attachments/assets/c9c57dff-d4ef-4688-8bc2-c5087330b871" />
+
+<img width="810" height="606" alt="image" src="https://github.com/user-attachments/assets/515fb6be-8384-4524-8029-2312c9b7b158" />
+
 </p>
 
 ## Features
