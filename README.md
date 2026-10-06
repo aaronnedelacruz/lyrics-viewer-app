@@ -6,16 +6,12 @@ A simple Android application built with Kotlin that allows users to browse and v
 
 ## Preview
 
-<p align="center">
 <img width="592" height="583" alt="image" src="https://github.com/user-attachments/assets/d06577ce-ff3a-4176-bd02-fbc25d8e3b9c" />
-
 <img width="541" height="565" alt="image" src="https://github.com/user-attachments/assets/2ff6bb36-022e-4fa5-ac38-e72b1be143c8" />
-
-<img width="810" height="607" alt="image" src="https://github.com/user-attachments/assets/c9c57dff-d4ef-4688-8bc2-c5087330b871" />
-
-<img width="810" height="606" alt="image" src="https://github.com/user-attachments/assets/515fb6be-8384-4524-8029-2312c9b7b158" />
-
-</p>
+<img width="547" height="577" alt="image" src="https://github.com/user-attachments/assets/19b31bc3-e7c6-477a-8911-a32a6c1770b9" />
+<img width="581" height="580" alt="image" src="https://github.com/user-attachments/assets/9a59b278-b1a6-4f4a-9afe-6949d465c2a3" />
+<img width="603" height="602" alt="image" src="https://github.com/user-attachments/assets/a115740d-3e00-4971-bd41-4836d711c6cb" />
+<img width="575" height="580" alt="image" src="https://github.com/user-attachments/assets/2afcaad5-36c2-4d1b-8bd1-2c35f7a41dd6" />
 
 ## Features
 
